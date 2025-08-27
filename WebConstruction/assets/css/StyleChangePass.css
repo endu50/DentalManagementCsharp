@@ -1,0 +1,41 @@
+﻿*
+{
+    font-family:Calibri, Tahoma, Arial;
+    font-size:medium;
+    }
+
+h1
+{
+    font-size:26px;
+    color:Green;
+    font-weight :bold;
+}
+
+#Page
+{
+    padding: 15px;
+    width: 340px;
+    height: 303px;
+    margin: 30px auto auto auto;
+    background-color: #FFFFFF;
+}
+#Containt
+{
+    padding: 10px;
+    width: 322px;
+    height: 105px;
+}
+#Option
+{
+    width: 278px;
+    height: 28px;
+    margin-top: 10px;
+    padding: 10px 32px 10px 32px;
+}
+#Option2
+{
+    width: 278px;
+    height: 100px;
+    margin-top: 10px;
+    padding: 10px 32px 10px 32px;
+}

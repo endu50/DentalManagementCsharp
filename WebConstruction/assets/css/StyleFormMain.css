@@ -1,0 +1,64 @@
+﻿*
+{
+    font-family:Calibri, Tahoma, Arial;
+    font-size:medium;
+    }
+
+h1
+{
+    font-size:26px;
+    color:Green;
+    font-weight :bold;
+}
+#Containt {
+    width: 202px;
+    height: 195px;
+    float: left;
+    font-weight: 700;
+}
+
+#Page
+{
+    width: 814px;
+    height: 431px;
+    margin: 30px auto auto auto;
+    background-color: #339966;
+}
+#Option
+{
+    float: left;
+    width: 89px;
+    height: 420px;
+    margin-top: 5px;
+    margin-left:5px;
+    background-color: #FFFFFF;
+}
+
+#Heading
+{
+    width: 690px;
+    height: 38px;
+    margin-top: 5px;
+    float: left;
+    background-color: #FFFFFF;
+    text-align: right;
+    padding-top: 12px;
+    padding-right: 25px;
+}
+.ImageCls
+{
+    margin-top:5px;
+    margin-left:12px;
+}
+.lblCls
+{
+    margin-left: 5px;
+}
+.lblCls2
+{
+    margin-left: 15px;
+}
+.lblCls3
+{
+    margin-left: 25px;
+}

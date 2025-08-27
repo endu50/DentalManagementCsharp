@@ -1,0 +1,49 @@
+﻿*
+{
+    font-family:Calibri, Tahoma, Arial;
+    font-size:medium;
+    }
+
+h1
+{
+    font-size:26px;
+    color:Green;
+    font-weight :bold;
+}
+
+#Summary
+{    width: 526px;
+    height: 150px;
+    margin: 20px auto auto auto;
+    background-color: #FFFFFF;    
+}
+
+#Page
+{
+    width: 526px;
+    height: 344px;
+    margin: 30px auto auto auto;
+    background-color: #FFFFFF;
+}
+#Photo
+{
+    width: 189px;
+    height: 202px;
+    margin-top: 10px;
+    float:right;
+    margin-right: 10px;
+}
+#Containt
+{
+    width: 308px;
+    height: 335px;
+    float: left;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+#Option1
+{
+    padding: 5px;
+    width: 178px;
+    height: 92px;
+}

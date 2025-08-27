@@ -1,0 +1,66 @@
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+
+# Logs
+*.log
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.mdb
+
+# Web-specific (IIS / WebForms)
+App_Data/
+*.dbmdl
+*.mdf
+*.ldf
+
+# Publish output
+PublishProfiles/
+*.Publish.xml
+*.pubxml
+*.publishproj
+[Ww]eb.[Dd]eploy/*
+[Ww]eb.[Pp]ublish/*
+
+# Config (optional, if sensitive)
+Web.Debug.config
+Web.Release.config
+Web.*.config
+
+# ReSharper / other tools
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Temp / backup files
+*.bak
+*.swp
+*.tmp
+*.temp
+*.dbmdl
+
+# OS-specific
+.DS_Store
+Thumbs.db
